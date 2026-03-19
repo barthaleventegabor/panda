@@ -1,4 +1,7 @@
 {
     "app.Home":"Főoldal",
-    "app.Products":"Termékek"
+    "app.Products":"Termékek",
+    "product.adding":"Hozzáadás",
+    "product.editing":"Szerkesztés",
+    "product.deleting":"Törlés"
 }

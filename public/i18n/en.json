@@ -1,4 +1,7 @@
 {
-    "app.Home":"",
-    "app.Products":""
+    "app.Home":"Home",
+    "app.Products":"Products",
+    "product.adding":"Adding",
+    "product.editing":"Editing",
+    "product.deleting":"Deleting"
 }
